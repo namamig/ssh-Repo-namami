@@ -2,7 +2,7 @@ class poo
 {
     public static void main(String[] args)
  {
-        System.out.println("Shri GAneshay Namah"); 
+        System.out.println("Shri GAneshay Namah "); 
 int a=10;
 int b=20;
 int c=a+b;
